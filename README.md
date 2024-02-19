@@ -75,3 +75,20 @@ CMake의 고급 기능을 사용하면 더 복잡한 프로젝트 구성, 라이
 - 위의 예제와 명령어는 Linux 또는 macOS 터미널 기반으로 설명되었습니다. Windows에서는 CMake와 Visual Studio를 함께 사용하여 프로젝트를 빌드하고 실행할 수 있으며, 실행 파일은 `.exe` 확장자를 가집니다.
 
 CMake를 사용한 프로젝트 빌드와 실행 파일 실행 과정은 이처럼 간단하며, 크로스 플랫폼 프로젝트를 관리하는 데 있어 매우 유용한 도구입니다.
+
+
+
+
+- Boost - 휴대성과 성능을 중시하는 C++ 라이브러리 모음.
+- Qt - 크로스 플랫폼 GUI 애플리케이션 개발 프레임워크.
+- OpenCV - 컴퓨터 비전을 위한 오픈 소스 라이브러리.
+- Eigen - C++로 작성된 고성능 수학 라이브러리, 특히 선형 대수 연산에 사용.
+- OpenGL - 크로스 플랫폼 API로, 2D 및 3D 벡터 그래픽을 렌더링하는데 사용.
+- GLEW (OpenGL Extension Wrangler Library) - OpenGL의 확장 기능을 쉽게 사용할 수 있게 해주는 크로스 플랫폼 오픈 소스 라이브러리.
+- SDL (Simple DirectMedia Layer) - 멀티미디어 애플리케이션 개발을 위한 크로스 플랫폼 개발 라이브러리.
+- SFML (Simple and Fast Multimedia Library) - 다양한 멀티미디어 애플리케이션 개발을 위한 간단하고 빠른 API.
+- CUDA - NVIDIA의 GPU를 사용한 병렬 컴퓨팅을 위한 개발 플랫폼과 API.
+- OpenMP - 멀티프로세싱 프로그래밍을 위한 API.
+- GTK - GNOME 데스크탑 환경을 위한 멀티플랫폼 툴킷.
+- PCL (Point Cloud Library) - 포인트 클라우드 처리와 관련된 2D/3D 이미지 및 포인트 클라우드 처리를 위한 대규모 라이브러리.
+- VTK (The Visualization Toolkit) - 3D 컴퓨터 그래픽스, 이미지 처리 및 시각화를 위한 소프트웨어 시스템.
